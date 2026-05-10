@@ -1,0 +1,69 @@
+[2026-04-15 23:59:00] 启动新版爬虫，目标关键词：Java开发
+[2026-04-15 23:59:05] 已尝试自动搜索关键词：Java开发
+[2026-04-15 23:59:05] 检查标签页[1]：求职_找工作_招聘_2026年招聘信息-智联招聘 | https://www.zhaopin.com/ | 识别到职位链接 0 个
+[2026-04-15 23:59:06] 已识别结果页：https://www.zhaopin.com/sou/jl635/kw01500O80EO062NO0AF8G | 标题：「Java开发招聘 2026年南京Java开发招聘信息」-智联招聘
+[2026-04-15 23:59:06] 识别到 20 个职位链接，开始抓取详情。
+[2026-04-15 23:59:06] [1/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC281393410J40816347301.htm?refcode=4019&srccode=401901&preactionid=2e9e4a01-bc5f-402e-9964-8b945a80f358
+[2026-04-15 23:59:08] 已解析职位：嵌入式初级工程师 / 南京捷帝科技有限公司 / 南京浦口区新华山装饰建材城
+[2026-04-15 23:59:08] [2/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC278068810J40920017804.htm?refcode=4019&srccode=401901&preactionid=2e9e4a01-bc5f-402e-9964-8b945a80f358
+[2026-04-15 23:59:11] 已解析职位：软件调试工程师 / 未知公司 / 浦口区南京市江北新区永锦路8号
+[2026-04-15 23:59:11] [3/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC656145630J40842273201.htm?refcode=4019&srccode=401901&preactionid=2e9e4a01-bc5f-402e-9964-8b945a80f358
+[2026-04-15 23:59:13] 已解析职位：嵌入式软件工程师 / 浦口区南京长空科技有限公司 / 浦口区南京长空科技有限公司
+[2026-04-15 23:59:13] [4/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC330425380J40592398009.htm?refcode=4019&srccode=401901&preactionid=2e9e4a01-bc5f-402e-9964-8b945a80f358
+[2026-04-15 23:59:16] 已解析职位：软件工程师 / 4.完成公司分配的其他任务； / 南京浦口区北斗大厦(惠达路)
+[2026-04-15 23:59:16] [5/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC453635220J40888157803.htm?refcode=4019&srccode=401901&preactionid=2e9e4a01-bc5f-402e-9964-8b945a80f358
+[2026-04-15 23:59:18] 已解析职位：Java开发工程师（接受无经验 早9晚6 大厂） / 未知公司 / 北京
+[2026-04-15 23:59:18] [6/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1480117890J40856034405.htm?refcode=4019&srccode=401901&preactionid=2e9e4a01-bc5f-402e-9964-8b945a80f358
+[2026-04-15 23:59:21] 已解析职位：软件开发工程师（不限经验 考公考研失败都要） / 未知公司 / 雨花台区华为南京研究所软件大道101号
+[2026-04-15 23:59:21] [7/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC000544460J40788815016.htm?refcode=4019&srccode=401901&preactionid=2e9e4a01-bc5f-402e-9964-8b945a80f358
+[2026-04-15 23:59:24] 已解析职位：嵌入式软件开发-MCU软件集成 / 未知公司 / 建邺区小米南京科技园1
+[2026-04-15 23:59:24] [8/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1226503690J40306013407.htm?refcode=4019&srccode=401901&preactionid=2e9e4a01-bc5f-402e-9964-8b945a80f358
+[2026-04-15 23:59:26] 已解析职位：C#软件开发工程师（实习） / 未知公司 / 南京江宁区联东U谷三期
+[2026-04-15 23:59:26] [9/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC167078510J40697090906.htm?refcode=4019&srccode=401901&preactionid=2e9e4a01-bc5f-402e-9964-8b945a80f358
+[2026-04-15 23:59:29] 已解析职位：软件开发工程师 / 未知公司 / 江苏省南京市雨花台区绕城公路与雨贸路交叉口北220米国睿路8号
+[2026-04-15 23:59:29] [10/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1338020740J40442373904.htm?refcode=4019&srccode=401901&preactionid=2e9e4a01-bc5f-402e-9964-8b945a80f358
+[2026-04-15 23:59:31] 已解析职位：初级开发工程师 / 公司福利： / 南京江宁区竹山路(地铁站)科建路29号有志大厦A座710室
+[2026-04-15 23:59:31] [11/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC192745910J40570979209.htm?refcode=4019&srccode=401901&preactionid=2e9e4a01-bc5f-402e-9964-8b945a80f358
+[2026-04-15 23:59:33] 已解析职位：软件实习生（教育） / 浦口区龙芯中科(南京)技术有限公司 / 浦口区龙芯中科(南京)技术有限公司
+[2026-04-15 23:59:34] [12/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC307490980J40936729802.htm?refcode=4019&srccode=401901&preactionid=2e9e4a01-bc5f-402e-9964-8b945a80f358
+[2026-04-15 23:59:36] 已解析职位：软件开发实习生（可转正） / 5、遵纪守法，遵守公司规章制度，服从领导的工作安排； / 南京建邺区奥体大街69号新城科技大厦01栋16层
+[2026-04-15 23:59:36] [13/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC639006220J40830848314.htm?refcode=4019&srccode=401901&preactionid=2e9e4a01-bc5f-402e-9964-8b945a80f358
+[2026-04-15 23:59:38] 已解析职位：嵌入式软件2026届校园招聘 / 未知公司 / 南京浦口区北斗大厦
+[2026-04-15 23:59:38] [14/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1338057120J40845869609.htm?refcode=4019&srccode=401901&preactionid=2e9e4a01-bc5f-402e-9964-8b945a80f358
+[2026-04-15 23:59:41] 已解析职位：软件开发工程师 / 为公司产品设计提供优秀的技术服务和技术支持； / 浦口区芯爱科技(南京)有限公司
+[2026-04-15 23:59:41] [15/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1509846210J40741666806.htm?refcode=4019&srccode=401901&preactionid=2e9e4a01-bc5f-402e-9964-8b945a80f358
+[2026-04-15 23:59:43] 已解析职位：java开发 / 南京大秋信息科技有限公司 / 南京鼓楼区虹桥
+[2026-04-15 23:59:43] [16/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC253081810J40846292809.htm?refcode=4019&srccode=401901&preactionid=2e9e4a01-bc5f-402e-9964-8b945a80f358
+[2026-04-15 23:59:46] 已解析职位：研发助理 / 江宁区南京飞洋汽车电子有限责任公司 / 江宁区南京飞洋汽车电子有限责任公司
+[2026-04-15 23:59:46] [17/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1345680450J40167580616.htm?refcode=4019&srccode=401901&preactionid=2e9e4a01-bc5f-402e-9964-8b945a80f358
+[2026-04-15 23:59:48] 已解析职位：对日JAVA开发 南京 / 1、在国内公司从事对日软件项目的设计、开发等工作(日后有去日本工作机会)； / 南京建邺区江东中路102
+[2026-04-15 23:59:48] [18/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC120037840J40513466405.htm?refcode=4019&srccode=401901&preactionid=2e9e4a01-bc5f-402e-9964-8b945a80f358
+[2026-04-15 23:59:50] 已解析职位：Java（校招） / 5、完成公司交办的其他工作。 / 南京建邺区庐山路158
+[2026-04-15 23:59:50] [19/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1284315760J40753597111.htm?refcode=4019&srccode=401901&preactionid=2e9e4a01-bc5f-402e-9964-8b945a80f358
+[2026-04-15 23:59:52] 已解析职位：软件开发实习生（C++/Qt） / 欢迎加入南京起拓科技有限公司！我们是一家充满激情与创新精神的科技企业，采用开放、高效的西式管理模式。如果你不甘平凡、热爱挑战、渴望快速成长，这里有一群志同道合的伙伴与你一起探索技术、共创未来！ / 南京浦口区景枫乐创中心
+[2026-04-15 23:59:52] [20/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC434616530J40333576108.htm?refcode=4019&srccode=401901&preactionid=2e9e4a01-bc5f-402e-9964-8b945a80f358
+[2026-04-15 23:59:54] 已解析职位：Java开发工程师 / 职位亮点：主要负责公司核心产品研发，非外包。 / 南京雨花台区荣创软件软件大道106号2栋1102
+[2026-04-15 23:59:54] 详情解析完成，准备入库 20 条记录。
+[2026-04-15 23:59:54] 爬虫异常：SynchronousOnlyOperation: You cannot call this from an async context - use a thread or sync_to_async.
+[2026-04-15 23:59:54] Traceback (most recent call last):
+  File "C:\Users\32148\Desktop\RecruitDataVsible-master\dataView\crawler_v2.py", line 247, in crawl
+    saved = self._save_jobs(clean_keyword, scraped_jobs)
+  File "C:\Users\32148\Desktop\RecruitDataVsible-master\dataView\crawler_v2.py", line 601, in _save_jobs
+    Job.objects.filter(post_type=keyword).delete()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\django\db\models\query.py", line 1201, in delete
+    num_deleted, num_deleted_per_model = collector.delete()
+                                         ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\django\db\models\deletion.py", line 454, in delete
+    with transaction.atomic(using=self.using, savepoint=False):
+         ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\django\db\transaction.py", line 198, in __enter__
+    if not connection.get_autocommit():
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\django\db\backends\base\base.py", line 454, in get_autocommit
+    self.ensure_connection()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\django\utils\asyncio.py", line 24, in inner
+    raise SynchronousOnlyOperation(message)
+django.core.exceptions.SynchronousOnlyOperation: You cannot call this from an async context - use a thread or sync_to_async.
+[2026-04-15 23:59:54] 发生异常，浏览器窗口已保留，请手动查看后再关闭。

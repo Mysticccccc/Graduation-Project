@@ -1,0 +1,63 @@
+[2026-04-16 02:30:15] 启动新版爬虫，目标关键词：工艺工程师
+[2026-04-16 02:30:19] 已尝试自动搜索关键词：工艺工程师
+[2026-04-16 02:30:19] 检查标签页[1]：求职_找工作_招聘_2026年招聘信息-智联招聘 | https://www.zhaopin.com/ | 识别到职位链接 0 个
+[2026-04-16 02:30:20] 已识别结果页：https://www.zhaopin.com/sou/jl489/kwBNIO4UITSLT0MNG8 | 标题：「工艺工程师招聘 2026年工艺工程师招聘信息」-智联招聘
+[2026-04-16 02:30:20] 识别到 20 个职位链接，开始抓取详情。
+[2026-04-16 02:30:20] [1/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1462702780J40850699814.htm
+[2026-04-16 02:30:21] 已解析职位：工艺工程师 / 2：能适应公司快速发展的节奏，目标管理强、计划能力强、落地能力强、时间观念强； / 绍兴
+[2026-04-16 02:30:22] [2/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC416925110J40869835113.htm
+[2026-04-16 02:30:23] 已解析职位：工艺工程师 / 1、根据公司产品生产特性，持续改进工艺，提升生产效率并降低成本； / 曲靖
+[2026-04-16 02:30:24] [3/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC534271820J40667326915.htm
+[2026-04-16 02:30:25] 已解析职位：工艺工程师 / 湖北安达精密工业有限公司 / 黄石
+[2026-04-16 02:30:25] [4/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC120141100J40707463713.htm
+[2026-04-16 02:30:27] 已解析职位：工艺工程师 / 7、完成公司知识产权的收集、管理汇总等相关工作。 / 淮南
+[2026-04-16 02:30:27] [5/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC132962990J40945976802.htm
+[2026-04-16 02:30:30] 已解析职位：工艺工程师 / 实力大公司 / 长沙
+[2026-04-16 02:30:30] [6/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC862683610J40238376711.htm
+[2026-04-16 02:30:32] 已解析职位：工艺工程师 / 未知公司 / 湖州
+[2026-04-16 02:30:32] [7/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC195368310J40068213308.htm
+[2026-04-16 02:30:34] 已解析职位：工艺工程师 / 2、餐补和医疗补贴：给予员工午餐补贴和公司内部医疗补贴； / 及联系方式
+[2026-04-16 02:30:34] [8/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC683517720J40830368713.htm
+[2026-04-16 02:31:14] 已解析职位：工艺工程师 / 蚌埠禹会区中国电子科技集团公司第四十一研究所 / 蚌埠
+[2026-04-16 02:31:14] [9/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC120519380J40826709207.htm
+[2026-04-16 02:31:21] 爬虫异常：Error: Page.goto: net::ERR_ABORTED; maybe frame was detached?
+Call log:
+  - navigating to "http://www.zhaopin.com/jobdetail/CC120519380J40826709207.htm", waiting until "domcontentloaded"
+
+[2026-04-16 02:31:21] Traceback (most recent call last):
+  File "C:\Users\32148\Desktop\RecruitDataVsible-master\dataView\crawler_v2.py", line 255, in crawl
+    detail_page.goto(link, wait_until="domcontentloaded", timeout=self.page_timeout_ms)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\sync_api\_generated.py", line 9054, in goto
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.goto(
+        ^^^^^^^^^^^^^^^^^^^^
+            url=url, timeout=timeout, waitUntil=wait_until, referer=referer
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        )
+        ^
+    )
+    ^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_page.py", line 552, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+        "goto", self._navigation_timeout, locals_to_params(locals())
+    )
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: net::ERR_ABORTED; maybe frame was detached?
+Call log:
+  - navigating to "http://www.zhaopin.com/jobdetail/CC120519380J40826709207.htm", waiting until "domcontentloaded"
+[2026-04-16 02:31:21] 发生异常，浏览器窗口已保留，请手动查看后再关闭。

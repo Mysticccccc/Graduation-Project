@@ -1,0 +1,61 @@
+[2026-04-16 02:27:24] 启动新版爬虫，目标关键词：结构工程师
+[2026-04-16 02:27:27] 已尝试自动搜索关键词：结构工程师
+[2026-04-16 02:27:27] 检查标签页[1]：求职_找工作_招聘_2026年招聘信息-智联招聘 | https://www.zhaopin.com/ | 识别到职位链接 0 个
+[2026-04-16 02:27:29] 已识别结果页：https://www.zhaopin.com/sou/jl489/kwFR9MF12TSLT0MNG8 | 标题：「结构工程师招聘 2026年结构工程师招聘信息」-智联招聘
+[2026-04-16 02:27:29] 识别到 20 个职位链接，开始抓取详情。
+[2026-04-16 02:27:29] [1/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1512456910J40898425708.htm?refcode=4019&srccode=401901&preactionid=ce3e6fb9-3aa7-40f9-bee3-fbb81ebc9836
+[2026-04-16 02:27:31] 已解析职位：结构工程师 / 3. 参与现有方案的改进和提高，同时不断寻求新技术、新产品并应用于公司业务中。 / 长春南关区吉林省钧鸿智能科技有限公司
+[2026-04-16 02:27:31] [2/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1478884150J40570951904.htm?refcode=4019&srccode=401901&preactionid=ce3e6fb9-3aa7-40f9-bee3-fbb81ebc9836
+[2026-04-16 02:27:33] 已解析职位：结构工程师 / 南京盛世精密工业有限公司 / 南京
+[2026-04-16 02:27:33] [3/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1227729570J40346285901.htm?refcode=4019&srccode=401901&preactionid=ce3e6fb9-3aa7-40f9-bee3-fbb81ebc9836
+[2026-04-16 02:27:35] 已解析职位：结构工程师 / 南昌金赣建筑工程设计有限公司 / 南昌
+[2026-04-16 02:27:35] [4/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC660152780J40905641308.htm?refcode=4019&srccode=401901&preactionid=ce3e6fb9-3aa7-40f9-bee3-fbb81ebc9836
+[2026-04-16 02:27:37] 已解析职位：结构工程师 / 枣庄薛城区山东海帝新能源科技有限公司永福南路6号 / 枣庄
+[2026-04-16 02:27:37] [5/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC358893610J40858152213.htm?refcode=4019&srccode=401901&preactionid=ce3e6fb9-3aa7-40f9-bee3-fbb81ebc9836
+[2026-04-16 02:27:39] 已解析职位：结构工程师 / 未知公司 / 上海
+[2026-04-16 02:27:39] [6/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1314304240J40768882416.htm?refcode=4019&srccode=401901&preactionid=ce3e6fb9-3aa7-40f9-bee3-fbb81ebc9836
+[2026-04-16 02:27:41] 已解析职位：结构工程师 / 海陵区泰州钠钠能源科技有限公司 / 泰州
+[2026-04-16 02:27:41] [7/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC372728820J40780838908.htm?refcode=4019&srccode=401901&preactionid=ce3e6fb9-3aa7-40f9-bee3-fbb81ebc9836
+[2026-04-16 02:27:44] 已解析职位：结构工程师 / 厦门莱特宝光电科技有限公司 / 厦门
+[2026-04-16 02:27:44] [8/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC153653815J90250035000.htm?refcode=4019&srccode=401901&preactionid=ce3e6fb9-3aa7-40f9-bee3-fbb81ebc9836
+[2026-04-16 02:28:44] 爬虫异常：TimeoutError: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "http://www.zhaopin.com/jobdetail/CC153653815J90250035000.htm?refcode=4019&srccode=401901&preactionid=ce3e6fb9-3aa7-40f9-bee3-fbb81ebc9836", waiting until "domcontentloaded"
+
+[2026-04-16 02:28:44] Traceback (most recent call last):
+  File "C:\Users\32148\Desktop\RecruitDataVsible-master\dataView\crawler_v2.py", line 255, in crawl
+    detail_page.goto(link, wait_until="domcontentloaded", timeout=self.page_timeout_ms)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\sync_api\_generated.py", line 9054, in goto
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.goto(
+        ^^^^^^^^^^^^^^^^^^^^
+            url=url, timeout=timeout, waitUntil=wait_until, referer=referer
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        )
+        ^
+    )
+    ^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_page.py", line 552, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+        "goto", self._navigation_timeout, locals_to_params(locals())
+    )
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "http://www.zhaopin.com/jobdetail/CC153653815J90250035000.htm?refcode=4019&srccode=401901&preactionid=ce3e6fb9-3aa7-40f9-bee3-fbb81ebc9836", waiting until "domcontentloaded"
+[2026-04-16 02:28:44] 发生异常，浏览器窗口已保留，请手动查看后再关闭。

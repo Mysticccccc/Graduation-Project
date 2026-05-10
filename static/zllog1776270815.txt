@@ -1,0 +1,48 @@
+[2026-04-16 00:33:35] 启动新版爬虫，目标关键词：Node.js
+[2026-04-16 00:33:40] 已尝试自动搜索关键词：Node.js
+[2026-04-16 00:33:40] 检查标签页[1]：求职_找工作_招聘_2026年招聘信息-智联招聘 | https://www.zhaopin.com/ | 识别到职位链接 0 个
+[2026-04-16 00:33:41] 已识别结果页：https://www.zhaopin.com/sou/jl635/kw01700RO0CG06A01E01L00SO | 标题：「Node.js招聘 2026年南京Node.js招聘信息」-智联招聘
+[2026-04-16 00:33:41] 识别到 20 个职位链接，开始抓取详情。
+[2026-04-16 00:33:42] [1/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC257684739J00058544402.htm?refcode=4019&srccode=401901&preactionid=dfede9cd-4ab1-4f0e-a880-1cab9e6f291a
+[2026-04-16 00:33:44] 已解析职位：php开发工程师 / 未知公司 / 浦口区南京市高新区惠达路9号
+[2026-04-16 00:33:44] [2/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC281393410J40759939801.htm?refcode=4019&srccode=401901&preactionid=dfede9cd-4ab1-4f0e-a880-1cab9e6f291a
+[2026-04-16 00:33:46] 已解析职位：web实习生 / 南京捷帝科技有限公司 / 南京浦口区新华山装饰建材城
+[2026-04-16 00:33:47] [3/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1413715930J40887813803.htm?refcode=4019&srccode=401901&preactionid=dfede9cd-4ab1-4f0e-a880-1cab9e6f291a
+[2026-04-16 00:33:49] 已解析职位：web前端开发工程师/年底双薪+交通便利 / 入职公司信息 / 建邺区南京国泰金融中心266
+[2026-04-16 00:33:49] [4/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC000544460J40800463716.htm?refcode=4019&srccode=401901&preactionid=dfede9cd-4ab1-4f0e-a880-1cab9e6f291a
+[2026-04-16 00:33:51] 已解析职位：Web前端开发 / 1、负责公司 Web、Mobile 等页面功能的开发和维护； / 南京建邺区永初路
+[2026-04-16 00:33:52] [5/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1268925460J40848725713.htm?refcode=4019&srccode=401901&preactionid=dfede9cd-4ab1-4f0e-a880-1cab9e6f291a
+[2026-04-16 00:33:54] 已解析职位：AI前端开发工程师 / 未知公司 / 南京江宁区江宁高新区瞪羚企业加速基地
+[2026-04-16 00:33:54] [6/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1464281770J40846273309.htm?refcode=4019&srccode=401901&preactionid=dfede9cd-4ab1-4f0e-a880-1cab9e6f291a
+[2026-04-16 00:33:56] 已解析职位：系统开发工程师 (Golang)【南京】【实习岗】 / 简和网络科技(南京)有限公司 / 南京江宁区江苏省未来网络创新研究院705室
+[2026-04-16 00:33:56] [7/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1520075690J40832744411.htm?refcode=4019&srccode=401901&preactionid=dfede9cd-4ab1-4f0e-a880-1cab9e6f291a
+[2026-04-16 00:33:59] 已解析职位：小程序全栈工程师 / 未知公司 / 南京市
+[2026-04-16 00:33:59] [8/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1511086350J40802899514.htm?refcode=4019&srccode=401901&preactionid=dfede9cd-4ab1-4f0e-a880-1cab9e6f291a
+[2026-04-16 00:34:01] 已解析职位：软件架构师 (医疗设备/心电监护方向) / 未知公司 / 南京溧水区科创大厦A座801室
+[2026-04-16 00:34:01] [9/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1455679640J40911982415.htm?refcode=4019&srccode=401901&preactionid=dfede9cd-4ab1-4f0e-a880-1cab9e6f291a
+[2026-04-16 00:34:04] 已解析职位：软件开发工程师r / 未知公司 / 南京、长沙、北京
+[2026-04-16 00:34:04] [10/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC443508230J40297803604.htm?refcode=4019&srccode=401901&preactionid=dfede9cd-4ab1-4f0e-a880-1cab9e6f291a
+[2026-04-16 00:34:06] 已解析职位：移动端程序员 / 南京唐图网络科技有限公司 / 南京浦口区浦珠南路与天浦路交叉口北140米1101室
+[2026-04-16 00:34:06] [11/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1389962270J40852944810.htm?refcode=4019&srccode=401901&preactionid=dfede9cd-4ab1-4f0e-a880-1cab9e6f291a
+[2026-04-16 00:34:09] 已解析职位：银行前端开发（南京） / 江苏信畅信息技术有限公司 / 南京市
+[2026-04-16 00:34:09] [12/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1373929800J40841920909.htm?refcode=4019&srccode=401901&preactionid=dfede9cd-4ab1-4f0e-a880-1cab9e6f291a
+[2026-04-16 00:34:11] 已解析职位：数据工程师（跨境电商） / iSpring Water Systems, LLC于2005年在美国成立，公司总部在美国南部中心城市亚特兰大，主营净水器，在北美市场常年占据头部位置。好水科技为iSpring全资子公司，专注研发和品质，在南京设有产品研发中心和工厂，在佛山设有研发分部，欢迎候选人投递！ / 江苏省南京市江宁区天元西路59号(科亚装备集团旁边)3栋
+[2026-04-16 00:34:11] [13/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1490864420J40803771016.htm?refcode=4019&srccode=401901&preactionid=dfede9cd-4ab1-4f0e-a880-1cab9e6f291a
+[2026-04-16 00:34:13] 已解析职位：系统架构师 / 1. 负责公司AI相关系统的整体技术架构设计与落地，推动AI能力在仓储、物流及供应链场景中的应用。 / Home
+[2026-04-16 00:34:13] [14/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC187227110J40736473611.htm?refcode=4019&srccode=401901&preactionid=dfede9cd-4ab1-4f0e-a880-1cab9e6f291a
+[2026-04-16 00:34:16] 已解析职位：.NET开发工程师 热门职位 / 未知公司 / 南京市建邺区升龙汇金中心
+[2026-04-16 00:34:16] [15/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1488125700J40865535613.htm?refcode=4019&srccode=401901&preactionid=dfede9cd-4ab1-4f0e-a880-1cab9e6f291a
+[2026-04-16 00:34:18] 已解析职位：全栈工程师 / 公司简介 / 南京建邺区紫金金融中心
+[2026-04-16 00:34:18] [16/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC272316530J40845769212.htm?refcode=4019&srccode=401901&preactionid=dfede9cd-4ab1-4f0e-a880-1cab9e6f291a
+[2026-04-16 00:34:21] 已解析职位：前端开发现场面试（ERP项目开发经验 学信网可查学历） / 南京博锐星润软件科技有限公司 / 南京江宁区景枫中心景枫中心写字楼
+[2026-04-16 00:34:21] [17/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1485707780J40804003211.htm?refcode=4019&srccode=401901&preactionid=dfede9cd-4ab1-4f0e-a880-1cab9e6f291a
+[2026-04-16 00:34:24] 已解析职位：web前端工程师 / 未知公司 / 南京鼓楼区幕府东路
+[2026-04-16 00:34:24] [18/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC303031780J40832257007.htm?refcode=4019&srccode=401901&preactionid=dfede9cd-4ab1-4f0e-a880-1cab9e6f291a
+[2026-04-16 00:34:27] 已解析职位：全栈工程师 / 1、参与公司产品的需求分析、代码实现及技术文档编写等工作，保质保量完成项目交付。 / 雨花台区软件谷垠坤
+[2026-04-16 00:34:27] [19/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC258770010J40892938602.htm?refcode=4019&srccode=401901&preactionid=dfede9cd-4ab1-4f0e-a880-1cab9e6f291a
+[2026-04-16 00:34:29] 已解析职位：AI赋能全栈工程师 / 未知公司 / 江苏省南京市雨花台区软件大道66号华通科技园
+[2026-04-16 00:34:29] [20/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC142971790J40812923711.htm?refcode=4019&srccode=401901&preactionid=dfede9cd-4ab1-4f0e-a880-1cab9e6f291a
+[2026-04-16 00:34:32] 已解析职位：南京 前端 / 未知公司 / 南京建邺区金融城2号楼
+[2026-04-16 00:34:32] 详情解析完成，已解析 20 条记录，准备退出浏览器后入库。
+[2026-04-16 00:34:32] 浏览器阶段结束，开始写入数据库，共 20 条记录。
+[2026-04-16 00:34:33] 抓取完成，成功入库 20 条记录。

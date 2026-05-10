@@ -1,0 +1,75 @@
+[2026-04-16 02:37:15] 启动新版爬虫，目标关键词：天猫运营
+[2026-04-16 02:37:19] 已尝试自动搜索关键词：天猫运营
+[2026-04-16 02:37:19] 检查标签页[1]：求职_找工作_招聘_2026年招聘信息-智联招聘 | https://www.zhaopin.com/ | 识别到职位链接 0 个
+[2026-04-16 02:37:20] 已识别结果页：https://www.zhaopin.com/sou/jl489/kwB4KN6ASFQ222A | 标题：「天猫运营招聘 2026年天猫运营招聘信息」-智联招聘
+[2026-04-16 02:37:20] 识别到 20 个职位链接，开始抓取详情。
+[2026-04-16 02:37:20] [1/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC243411880J40886293303.htm?refcode=4019&srccode=401901&preactionid=885ec0b6-33f6-44bf-ba56-79d1cb2250c5
+[2026-04-16 02:37:22] 已解析职位：天猫拼多多运营助理 / 我们拥有全方位的平台，公司提供培训。 / 温州
+[2026-04-16 02:37:22] [2/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1468431490J40925416115.htm?refcode=4019&srccode=401901&preactionid=885ec0b6-33f6-44bf-ba56-79d1cb2250c5
+[2026-04-16 02:37:24] 已解析职位：天猫运营 / 华佗极草(广州)大健康产业开发有限公司 / 广州
+[2026-04-16 02:37:24] [3/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC700683980J40828282211.htm?refcode=4019&srccode=401901&preactionid=885ec0b6-33f6-44bf-ba56-79d1cb2250c5
+[2026-04-16 02:37:26] 已解析职位：天猫/淘宝运营助理（接受无经验/5险1金/带薪培训） / 2 入职后：公司有专人，从0开始培训。 / 宝鸡
+[2026-04-16 02:37:26] [4/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1201432550J00187351010.htm?refcode=4019&srccode=401901&preactionid=885ec0b6-33f6-44bf-ba56-79d1cb2250c5
+[2026-04-16 02:37:28] 已解析职位：淘宝运营店长 天猫运营店长（长期招运营推广爱好者） / 4、负责收集市场和行业信息，分析总结竞争对手、行业信息、公司产品信息等调研信息，确定调研结果，为公司的总体战略制定提供相关依据。 / 许昌
+[2026-04-16 02:37:29] [5/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC458516420J40976848804.htm?refcode=4019&srccode=401901&preactionid=885ec0b6-33f6-44bf-ba56-79d1cb2250c5
+[2026-04-16 02:37:31] 已解析职位：电商运营专员 / 承德避暑山庄企业集团股份有限公司 / 承德
+[2026-04-16 02:37:31] [6/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC243411880J40886293403.htm?refcode=4019&srccode=401901&preactionid=885ec0b6-33f6-44bf-ba56-79d1cb2250c5
+[2026-04-16 02:37:32] 已解析职位：天猫拼多多运营助理 / 我们拥有全方位的平台，公司提供培训。 / 温州
+[2026-04-16 02:37:33] [7/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1491953510J40827949401.htm?refcode=4019&srccode=401901&preactionid=885ec0b6-33f6-44bf-ba56-79d1cb2250c5
+[2026-04-16 02:37:35] 已解析职位：淘宝/天猫运营(付费推广+不加班晋升快） / 3.这是一个很重视学习成长的团队，公司会付费让你学习成长，想要学习发展提升的看过来~ / 郑州
+[2026-04-16 02:37:35] [8/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1490721630J40657961401.htm?refcode=4019&srccode=401901&preactionid=885ec0b6-33f6-44bf-ba56-79d1cb2250c5
+[2026-04-16 02:37:37] 已解析职位：淘宝运营 / 未知公司 / 湖州
+[2026-04-16 02:37:37] [9/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC479801630J40730125809.htm?refcode=4019&srccode=401901&preactionid=885ec0b6-33f6-44bf-ba56-79d1cb2250c5
+[2026-04-16 02:37:40] 已解析职位：拼多多/天猫运营 接受小白 / ■公司概况■ / 开封
+[2026-04-16 02:37:40] [10/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC137909900J40848941505.htm?refcode=4019&srccode=401901&preactionid=885ec0b6-33f6-44bf-ba56-79d1cb2250c5
+[2026-04-16 02:37:42] 已解析职位：淘宝/天猫/拼多多/抖音店铺运营助理 / 公司亮点：专业的电商公司，完善的晋升体制，为您提供充足的发展空间，欢迎您的加入。 / 郑州
+[2026-04-16 02:37:42] [11/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1429607430J40661456107.htm?refcode=4019&srccode=401901&preactionid=885ec0b6-33f6-44bf-ba56-79d1cb2250c5
+[2026-04-16 02:37:44] 已解析职位：淘宝运营 / 安徽众程数字科技有限公司 / 合肥
+[2026-04-16 02:37:44] [12/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1478712590J40911986308.htm?refcode=4019&srccode=401901&preactionid=885ec0b6-33f6-44bf-ba56-79d1cb2250c5
+[2026-04-16 02:37:46] 已解析职位：天猫运营助理（晋升快） / 泰安市正弦文化创意有限公司 / 泰安
+[2026-04-16 02:37:46] [13/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1514954570J40826123310.htm?refcode=4019&srccode=401901&preactionid=885ec0b6-33f6-44bf-ba56-79d1cb2250c5
+[2026-04-16 02:37:48] 已解析职位：运营助理 / 9、完成公司领导交办的其他事务。 / 镇江
+[2026-04-16 02:37:48] [14/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC320100080J40973697404.htm?refcode=4019&srccode=401901&preactionid=885ec0b6-33f6-44bf-ba56-79d1cb2250c5
+[2026-04-16 02:37:50] 已解析职位：天猫运营 / 济源市鸿润饮品有限公司 / 济源
+[2026-04-16 02:37:50] [15/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1285079490J40824332307.htm?refcode=4019&srccode=401901&preactionid=885ec0b6-33f6-44bf-ba56-79d1cb2250c5
+[2026-04-16 02:38:50] 爬虫异常：TimeoutError: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "http://www.zhaopin.com/jobdetail/CCL1285079490J40824332307.htm?refcode=4019&srccode=401901&preactionid=885ec0b6-33f6-44bf-ba56-79d1cb2250c5", waiting until "domcontentloaded"
+
+[2026-04-16 02:38:50] Traceback (most recent call last):
+  File "C:\Users\32148\Desktop\RecruitDataVsible-master\dataView\crawler_v2.py", line 255, in crawl
+    detail_page.goto(link, wait_until="domcontentloaded", timeout=self.page_timeout_ms)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\sync_api\_generated.py", line 9054, in goto
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.goto(
+        ^^^^^^^^^^^^^^^^^^^^
+            url=url, timeout=timeout, waitUntil=wait_until, referer=referer
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        )
+        ^
+    )
+    ^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_page.py", line 552, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+        "goto", self._navigation_timeout, locals_to_params(locals())
+    )
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "http://www.zhaopin.com/jobdetail/CCL1285079490J40824332307.htm?refcode=4019&srccode=401901&preactionid=885ec0b6-33f6-44bf-ba56-79d1cb2250c5", waiting until "domcontentloaded"
+[2026-04-16 02:38:50] 发生异常，浏览器窗口已保留，请手动查看后再关闭。

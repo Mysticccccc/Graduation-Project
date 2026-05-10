@@ -1,0 +1,63 @@
+[2026-04-16 02:05:15] 启动新版爬虫，目标关键词：人工智能
+[2026-04-16 02:05:18] 已尝试自动搜索关键词：人工智能
+[2026-04-16 02:05:18] 检查标签页[1]：求职_找工作_招聘_2026年招聘信息-智联招聘 | https://www.zhaopin.com/ | 识别到职位链接 0 个
+[2026-04-16 02:05:20] 已识别结果页：https://www.zhaopin.com/sou/jl489/kw9QT5RPB6FA0FQ | 标题：「人工智能招聘 2026年人工智能招聘信息」-智联招聘
+[2026-04-16 02:05:20] 识别到 20 个职位链接，开始抓取详情。
+[2026-04-16 02:05:20] [1/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC612833320J40678174701.htm?refcode=4019&srccode=401901&preactionid=41cc16b9-03f0-43d8-97aa-8b2f3ca07085
+[2026-04-16 02:05:22] 已解析职位：人工智能AI应用审核-双休五险一金 / 未知公司 / 沈阳
+[2026-04-16 02:05:22] [2/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1491913380J40837993109.htm?refcode=4019&srccode=401901&preactionid=41cc16b9-03f0-43d8-97aa-8b2f3ca07085
+[2026-04-16 02:05:24] 已解析职位：AI人工智能岗（线上面试）行政班 5000+ / 工作简单好做，接受小白无经验，公司氛围 nice ！团队小伙伴们倍儿有趣！开开心心上下班！ / 长春
+[2026-04-16 02:05:24] [3/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1400802910J40922019002.htm?refcode=4019&srccode=401901&preactionid=41cc16b9-03f0-43d8-97aa-8b2f3ca07085
+[2026-04-16 02:05:26] 已解析职位：人工智能数据标注 / AI数据标注招聘啦，一对一培训，上手简单。 公司及项目介绍： 智汇数云科技有限公司是一家淄博市经开区重点招商企业，主要经营人工智能方向的数据处理、运营等； 公司项目主要是帮大模型识别训练数据。大模型包括（智慧操场、视频剪辑、标题打分、GPT、deepseek等）打点、拉框等。 职位详情： 1、负责对各类数据进行标注，确保数据质量和准确性: 2、参与制定和优化数据标注流程及标准; 3、与团队合作，完成数据标注任务，提升工作效率; 工作简单，坐班不需外出，不勾心斗角，快乐工作 职位要求： 1、熟悉数据标注工作，有相关工作经验者优先录用，小白 2、文员类型工作，可长期坐的住； 3、具备良好的逻辑思维能力和细致的工作态度! 4、可熟练使用电脑及常用办公软件 4、服从主管组长安排，具有较强的学习能力和团队合作精神。 薪资待遇: 1、工作时间:8:30-17:30,周日单休，有事可调休 2、综合薪资3000-6000元。 3、有完整的晋升机制(数据标注师→质检师→项目主管→项目经理)，上升空间大。 / 淄博
+[2026-04-16 02:05:27] [4/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1200309560J40852156705.htm?refcode=4019&srccode=401901&preactionid=41cc16b9-03f0-43d8-97aa-8b2f3ca07085
+[2026-04-16 02:05:28] 已解析职位：人工智能标注采集 / 山西省综改示范区法瑞科技有限公司 / 苏州
+[2026-04-16 02:05:29] [5/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC351377410J40712342201.htm?refcode=4019&srccode=401901&preactionid=41cc16b9-03f0-43d8-97aa-8b2f3ca07085
+[2026-04-16 02:05:31] 已解析职位：人工智能训练师-在线纠错员 / 公司介绍 / 石家庄
+[2026-04-16 02:05:31] [6/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1422758120J40619254606.htm?refcode=4019&srccode=401901&preactionid=41cc16b9-03f0-43d8-97aa-8b2f3ca07085
+[2026-04-16 02:05:32] 已解析职位：ai人工智能训练师 / 河南多鲸信息技术有限公司 / 开封
+[2026-04-16 02:05:32] [7/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC406882580J40843661802.htm?refcode=4019&srccode=401901&preactionid=41cc16b9-03f0-43d8-97aa-8b2f3ca07085
+[2026-04-16 02:05:34] 已解析职位：AI人工智能软件销售【已接入Deepseek版】 / 5、带薪培训：公司有专业培训、标准化、流程化，入职即安排岗前培训、产品学习培训、销售技能培训等。关注员工学习发展，全年免费在职培训，学习与挣钱同时满足。 / 广州
+[2026-04-16 02:05:34] [8/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1505777260J40839705101.htm?refcode=4019&srccode=401901&preactionid=41cc16b9-03f0-43d8-97aa-8b2f3ca07085
+[2026-04-16 02:05:36] 已解析职位：人工智能数据标注师 / 沈阳久安安全技术服务有限公司 / 沈阳
+[2026-04-16 02:05:36] [9/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC466465020J40841096401.htm?refcode=4019&srccode=401901&preactionid=41cc16b9-03f0-43d8-97aa-8b2f3ca07085
+[2026-04-16 02:06:29] 爬虫异常：Error: Page.goto: net::ERR_CONNECTION_TIMED_OUT at http://www.zhaopin.com/jobdetail/CC466465020J40841096401.htm?refcode=4019&srccode=401901&preactionid=41cc16b9-03f0-43d8-97aa-8b2f3ca07085
+Call log:
+  - navigating to "http://www.zhaopin.com/jobdetail/CC466465020J40841096401.htm?refcode=4019&srccode=401901&preactionid=41cc16b9-03f0-43d8-97aa-8b2f3ca07085", waiting until "domcontentloaded"
+
+[2026-04-16 02:06:29] Traceback (most recent call last):
+  File "C:\Users\32148\Desktop\RecruitDataVsible-master\dataView\crawler_v2.py", line 255, in crawl
+    detail_page.goto(link, wait_until="domcontentloaded", timeout=self.page_timeout_ms)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\sync_api\_generated.py", line 9054, in goto
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.goto(
+        ^^^^^^^^^^^^^^^^^^^^
+            url=url, timeout=timeout, waitUntil=wait_until, referer=referer
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        )
+        ^
+    )
+    ^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_page.py", line 552, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+        "goto", self._navigation_timeout, locals_to_params(locals())
+    )
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: net::ERR_CONNECTION_TIMED_OUT at http://www.zhaopin.com/jobdetail/CC466465020J40841096401.htm?refcode=4019&srccode=401901&preactionid=41cc16b9-03f0-43d8-97aa-8b2f3ca07085
+Call log:
+  - navigating to "http://www.zhaopin.com/jobdetail/CC466465020J40841096401.htm?refcode=4019&srccode=401901&preactionid=41cc16b9-03f0-43d8-97aa-8b2f3ca07085", waiting until "domcontentloaded"
+[2026-04-16 02:06:29] 发生异常，浏览器窗口已保留，请手动查看后再关闭。

@@ -1,0 +1,63 @@
+[2026-04-16 02:09:25] 启动新版爬虫，目标关键词：区块链
+[2026-04-16 02:09:28] 已尝试自动搜索关键词：区块链
+[2026-04-16 02:09:28] 检查标签页[1]：求职_找工作_招聘_2026年招聘信息-智联招聘 | https://www.zhaopin.com/ | 识别到职位链接 0 个
+[2026-04-16 02:09:30] 已识别结果页：https://www.zhaopin.com/sou/jl489/kwACT5ELSKVO | 标题：「区块链招聘 2026年区块链招聘信息」-智联招聘
+[2026-04-16 02:09:30] 识别到 20 个职位链接，开始抓取详情。
+[2026-04-16 02:09:30] [1/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1269610600J40841061910.htm?refcode=4019&srccode=401901&preactionid=157816de-982c-415b-98f4-d5b51a4fe9e8
+[2026-04-16 02:09:32] 已解析职位：嘉兴日结骑手给小区送奶茶咖啡工资月入八千 / 宁波万古配送服务有限公司 / 嘉兴
+[2026-04-16 02:09:32] [2/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1266380620J40889521012.htm?refcode=4019&srccode=401901&preactionid=157816de-982c-415b-98f4-d5b51a4fe9e8
+[2026-04-16 02:09:34] 已解析职位：急招药房送药300一天 / 公司提供电动车/摩托车 / 西安
+[2026-04-16 02:09:34] [3/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1251980680J40879066312.htm?refcode=4019&srccode=401901&preactionid=157816de-982c-415b-98f4-d5b51a4fe9e8
+[2026-04-16 02:09:36] 已解析职位：驿站快递员 / 公司提供三轮车 / 驻马店
+[2026-04-16 02:09:36] [4/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1443764100J40997675604.htm?refcode=4019&srccode=401901&preactionid=157816de-982c-415b-98f4-d5b51a4fe9e8
+[2026-04-16 02:09:38] 已解析职位：超市班长 8小时 五险一金 / 未知公司 / 杭州
+[2026-04-16 02:09:38] [5/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC870177470J40842110401.htm?refcode=4019&srccode=401901&preactionid=157816de-982c-415b-98f4-d5b51a4fe9e8
+[2026-04-16 02:09:39] 已解析职位：国企-档案管理 / 保定定州市国能河北定州发电有限责任公司河北定州华安路与和平大街交叉口西北方向470左右 / 保定
+[2026-04-16 02:09:40] [6/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1522985590J40849925009.htm?refcode=4019&srccode=401901&preactionid=157816de-982c-415b-98f4-d5b51a4fe9e8
+[2026-04-16 02:09:42] 已解析职位：区块链智能合约工程师 / 未知公司 / 西安
+[2026-04-16 02:09:42] [7/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC640155330J40841377711.htm?refcode=4019&srccode=401901&preactionid=157816de-982c-415b-98f4-d5b51a4fe9e8
+[2026-04-16 02:09:44] 已解析职位：AI漫剧实习生 / 成都新飞翔科技集团有限公司 / 成都
+[2026-04-16 02:09:44] [8/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CCL1502254770J40801483514.htm?refcode=4019&srccode=401901&preactionid=157816de-982c-415b-98f4-d5b51a4fe9e8
+[2026-04-16 02:09:46] 已解析职位：新媒体引流专员 / 河南省怡链阳科技有限公司招聘信息 / 郑州
+[2026-04-16 02:09:46] [9/20] 打开职位详情：http://www.zhaopin.com/jobdetail/CC465486630J40703261114.htm?refcode=4019&srccode=401901&preactionid=157816de-982c-415b-98f4-d5b51a4fe9e8
+[2026-04-16 02:10:21] 爬虫异常：Error: Page.goto: net::ERR_ABORTED; maybe frame was detached?
+Call log:
+  - navigating to "http://www.zhaopin.com/jobdetail/CC465486630J40703261114.htm?refcode=4019&srccode=401901&preactionid=157816de-982c-415b-98f4-d5b51a4fe9e8", waiting until "domcontentloaded"
+
+[2026-04-16 02:10:21] Traceback (most recent call last):
+  File "C:\Users\32148\Desktop\RecruitDataVsible-master\dataView\crawler_v2.py", line 255, in crawl
+    detail_page.goto(link, wait_until="domcontentloaded", timeout=self.page_timeout_ms)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\sync_api\_generated.py", line 9054, in goto
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.goto(
+        ^^^^^^^^^^^^^^^^^^^^
+            url=url, timeout=timeout, waitUntil=wait_until, referer=referer
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        )
+        ^
+    )
+    ^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_page.py", line 552, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+        "goto", self._navigation_timeout, locals_to_params(locals())
+    )
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\32148\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: net::ERR_ABORTED; maybe frame was detached?
+Call log:
+  - navigating to "http://www.zhaopin.com/jobdetail/CC465486630J40703261114.htm?refcode=4019&srccode=401901&preactionid=157816de-982c-415b-98f4-d5b51a4fe9e8", waiting until "domcontentloaded"
+[2026-04-16 02:10:21] 发生异常，浏览器窗口已保留，请手动查看后再关闭。
